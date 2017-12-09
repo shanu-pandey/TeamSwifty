@@ -1,0 +1,90 @@
+Johnny: Wow, you look simply divine. A beautiful woman for an elegant afternoon on the beach. Let's have the magic of this moment fill our souls with serenity.
+dialog_over
+1 Serenity?
+Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together.
+2 Life is...
+Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together.
+3 Slow down 
+Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together.
+choices_over
+Life
+Johnny: That defines inspirational.
+Johnny: If only society had the aspiration for knowledge that we have.
+dialog_over
+1 Mainstream Media...
+Taylor: Mainstream media corrupts everyone's minds. No one reads real novels anymore. God is dead.
+2 No one cares
+Taylor: Mainstream media corrupts everyone's minds. No one reads real novels anymore. God is dead.
+3 I guess...  
+Taylor: Mainstream media corrupts everyone's minds. No one reads real novels anymore. God is dead.
+choices_over
+Mainstream
+Johnny: Texting and modern literature has corrupted our souls. But the truth you speak inspires those who listen. And...I'm listening…
+Johnny: But tell me, what are you all about? What is your meaning?
+dialog_over
+1 Texting
+Taylor: OM God, I love to text!! 
+2 You first ;)
+Taylor: It's not something you will find in a dictionary. It's something you discover through experience ;)
+3 I am unexplainable
+Taylor: It's not something you will find in a dictionary. It's something you discover through experience ;)
+choices_over
+Unexplainable
+Johnny: OHHHHH, I see.
+Johnny: Shall we indulge in some wine, perhaps?
+dialog_over
+1 Only refined
+Taylor: I like my wine like I like my men...aged and refined.
+2 Whatever...
+Taylor: I like my wine like I like my men...aged and refined.
+3 Like totally!  
+Taylor: I like my wine like I like my men...aged and refined.
+choices_over
+pallet
+Johnny: You have a mature palate I see... If you listen to the sea closely you will hear it calling our names. 
+Johnny: Shall we take this wine and conversation to the waves? 
+dialog_over
+1 Sure, but..
+Taylor: Sure but... I didn’t bring my bathing suit ;)
+2 It's cold!
+Taylor: Sure but... I didn’t bring a bathing suit ;)
+3 You wish  
+Taylor: Sure but... I didn’t bring a bathing suit ;)
+choices_over
+scene_end
+#
+Johnny: The club? How preposterous! Truly a cesspool of millennial culture. Why would you take our date to such a boorish establishment?
+dialog_over
+1 Tequila everywhere!
+Taylor: Because there is tequila everywhere! You just need to take a shot and a selfie to get into it. I’ll even let you pick the hashtag and filter.
+2 Shots and selfies
+Taylor: Because there are vodka shots everywhere! The club is magical. You just need to take a shot and a selfie to get into it. I’ll even let you pick the hashtag and filter.
+3 EDM is my inspiration  
+Taylor: This DJ changed my life! The club is magical. You just need to take a shot and a selfie to get into it. I’ll even let you pick the hashtag and filter.
+choices_over
+BadDate_1
+Johnny: The only so called “selfie” I have taken is modeling for my impressionist painter. 
+Johnny: How are we supposed to enjoy conversation with this horrendous excuse for music invading our senses? Is there any place we could go to show you my poetry?
+dialog_over
+1 Is it a rap?!
+Taylor: OM god, is it a rap? The DJ can drop me a beat and I’ll rap this like it's karaoke.
+2 …
+Taylor: Oh, jesus christ. Can you not? The club is about having fun and poetry is so boring.
+3 Not a chance
+Taylor: I’m not leaving this dance floor until the bouncer drags me the f outta here!
+choices_over
+BadDate_2
+Johnny: I thought you were a woman of refined tastes and sophistication. But maybe you’re outlook on life is simpler than I once thought. 
+Johnny: Which is fine… You do you!
+dialog_over
+1 I can’t even…
+Taylor: I can’t even with you anymore. Swerve. ttyl. We’re finished.
+2 Destiny
+Taylor: Maybe our destiny says we should just be friends…
+3 I will do me!
+Taylor: I will do me. And doing me means no more of you. Swerve. ttyl. We’re finished.
+choices_over
+BadDate_3
+Johnny: I looked to you for inspiration...
+Johnny: And you gave me nothing. Farewell simpleton.
+scene_end

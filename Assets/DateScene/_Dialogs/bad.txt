@@ -1,0 +1,32 @@
+Deep: The club? How preposterous! Truly a cesspool of millennial culture. Why would you take our date to such a boorish establishment?
+dialog_over
+1 Tequila everywhere!
+Taylor: Because there is tequila everywhere! You just need to take a shot and a selfie to get into it. I’ll even let you pick the hashtag and filter.
+2 Shots and selfies
+Because there are vodka shots everywhere! The club is magical. You just need to take a shot and a selfie to get into it. I’ll even let you pick the hashtag and filter.
+3 EDM is my inspiration  
+This DJ changed my life! The club is magical. You just need to take a shot and a selfie to get into it. I’ll even let you pick the hashtag and filter.
+choices_over
+Deep: The only so called “selfie” I have taken is modeling for my impressionist painter. (long pause, awk)
+How are we supposed to enjoy conversation with this horrendous excuse for music invading our senses? Is there any place we could go to show you my poetry?
+dialog_over
+1 Is it a rap?!
+OM god, is it a rap? The DJ can drop me a beat and I’ll rap this like it's karaoke.
+2 …:
+Oh, jesus christ. Can you not? The club is about having fun and poetry is so boring.
+3 Not a chance:
+I’m not leaving this dancefloor until the bouncer drags me by the heels outta here!
+choices_over
+Deep: I thought you were a woman of refined tastes and sophistication. But maybe you’re outlook on life is simpler than I once thought. 
+Deep: Which is fine… You do you Break Up
+dialog_over
+1 I can’t even…:
+I can’t even with you anymore. Swerve. ttyl. We’re finished.
+2 So much drama!:
+You are causing so much drama in my life right now. Swerve. ttyl. We’re finished.
+3 I will do me!:
+I will do me. And doing me means no more of you. Swerve. ttyl. We’re finished.
+choices_over
+Deep: I looked to you for inspiration...
+And you gave me nothing. Farewell simpleton.
+scene_end

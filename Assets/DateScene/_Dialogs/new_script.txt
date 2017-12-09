@@ -1,0 +1,150 @@
+Johnny: Wow, you look simply divine. 
+first_<dialog_over>
+<first_options>
+1 Life is...
+2 Slow down
+3 Serenity?
+<options_over>
+<first_response>
+1 Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together. 
+2 Taylor: Let's just have a good time and see if this works out. No need for the big expectations.
+3 Taylor: What does serenity mean?
+<response_over>
+<dialog_start>
+1 Johnny: That defines inspirational.
+Johnny: If only society had the aspiration for knowledge that we have.
+<dialog_over>
+<dialog_start>
+2 Johnny: Oh sorry, my heart sometimes moves as fast as my intellect. I need to tell my heart to take a step back sometimes.
+Johnny: If only society had the aspiration for knowledge that I have.
+<dialog_over>
+<dialog_start>
+3 Johnny: Have you ever read a novel before? Or even a poem for that matter?
+Johnny: If only society had the aspiration for knowledge that I have.
+<dialog_over>
+<options_1>
+1 Mainstream Media...
+2 No one cares
+3 People Skills...  
+<options_over>
+<options_2>
+1 Mainstream Media...
+2 No one cares
+3 People Skills...  
+<options_over>
+<options_3>
+1 Mainstream Media...
+2 No one cares
+3 People Skills...  
+<options_over>
+<response_1>
+1 Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together. 
+2 Taylor: Let's just have a good time and see if this works out. No need for the big expectations.
+3 Taylor: What does serenity mean?
+<response_over>
+<response_2>
+1 Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together. 
+2 Taylor: Let's just have a good time and see if this works out. No need for the big expectations.
+3 Taylor: What does serenity mean?
+<response_over>
+<response_3>
+1 Taylor: Each moment is a piece of life. We just need to find the right pieces to put the puzzle together. 
+2 Taylor: Let's just have a good time and see if this works out. No need for the big expectations.
+3 Taylor: What does serenity mean?
+<response_over>
+<dialog_start>
+1 Johnny: Texting and the modern notion of what is regarded as literature has corrupted our souls. But the truth you speak inspires those who listen. And...I'm listening.
+Johnny: So, what are you all about? What is your meaning?
+<dialog_over>
+<dialog_start>
+2 Johnny: I will not calm down until the entirity of humanity is enlightened, madam.
+Johnny: Who are you suppossed to be, again?
+<dialog_over>
+<dialog_start>
+3 Johnny: Perhaps, but people are temporary. The knowledge you uncover can last forever.
+Johnny: Anyway, what are you all about?
+<dialog_over>
+<options_1>
+1 Texting
+2 You first ;)
+3 I am unexplainable
+<options_over>
+<options_2>
+1 Texting
+2 You first ;)
+3 I am unexplainable  
+<options_over>
+<options_3>
+1 Texting
+2 You first ;)
+3 I am unexplainable
+<options_over>
+<response_1>
+1 Taylor: Oh my god, I love to text! It's like what I'm all about.
+2 Taylor: You go first ;)
+3 Taylor: It's not something you will find in a dictionary. It's something you discover through experience ;)
+<response_over>
+<response_2>
+1 Taylor: Oh my god, I love to text! It's like what I'm all about.
+2 Taylor: You go first ;)
+3 Taylor: It's not something you will find in a dictionary. It's something you discover through experience ;)
+<response_over>
+<response_3>
+1 Taylor: Oh my god, I love to text! It's like what I'm all about.
+2 Taylor: You go first ;)
+3 Taylor: It's not something you will find in a dictionary. It's something you discover through experience ;)
+<response_over>
+<dialog_start>
+1 Johnny: Like THAT expands your mind.
+Johnny: UHHH, texting has destroyed the purity of language forever.
+<dialog_over>
+<dialog_start>
+2 Johnny: Oh, uh, I'm constantly trying to discover myself. Anyway...
+Johnny: Shall we indulge in some wine, perhaps?
+<dialog_over>
+<dialog_start>
+3 MMMMMMMM
+Johnny: Shall we indulge in some wine, perhaps?
+<dialog_over>
+<options_1>
+1 Irony
+2 Maybe for you
+3 Words..SMH
+<options_over>
+<options_2>
+1 My pallet's refined
+2 Whatever...
+3 Like totally!
+<options_over>
+<options_3>
+1 My pallet's refined
+2 Whatever...
+3 Like totally!
+<options_over>
+<response_1>
+1 Taylor: Relax silly, I was just being ironic...
+2 Taylor: Maybe for you. Maybe the rest of us are just evolving with the world.
+3 Taylor: Words are so yesteryear, emojis are what's up today.
+<response_over>
+<response_2>
+1 Taylor: I like my wine like I like my men...aged and refined.
+2 Taylor: Whatever gets me drunk...
+3 Taylor: ILike totally! I drank so many boxes of wine in my sororiety.
+<response_over>
+<response_3>
+1 Taylor: I like my wine like I like my men...aged and refined.
+2 Taylor: Whatever gets me drunk...
+3 Taylor: ILike totally! I drank so many boxes of wine in my sororiety.
+<response_over>
+<dialog_start>
+1 Johnny: Like THAT expands your mind.
+Johnny: UHHH, texting has destroyed the purity of language forever.
+<dialog_over>
+<dialog_start>
+2 Johnny: Oh, uh, I'm constantly trying to discover myself. Anyway...
+Johnny: Shall we indulge in some wine, perhaps?
+<dialog_over>
+<dialog_start>
+3 MMMMMMMM
+Johnny: Shall we indulge in some wine, perhaps?
+<dialog_over>
